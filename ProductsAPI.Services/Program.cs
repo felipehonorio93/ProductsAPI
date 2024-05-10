@@ -2,6 +2,7 @@ using MediatR;
 using ProductsAPI.Application.Interfaces;
 using ProductsAPI.Application.Services;
 using ProductsAPI.Infra.IoC.Extensions;
+using ProductsAPI.Services.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,7 @@ builder.Services.AddMongoDBConfig(builder.Configuration); //MongoDB
 builder.Services.AddDependencyInjection(); //Serviços
 builder.Services.AddMediatRConfig(); //MediatR
 builder.Services.AddJwtBearer(builder.Configuration); //JWT 
+builder.Services.AddCorsPolicy(); //CORS
 
 #region Injeções de dependência
 
@@ -26,8 +28,9 @@ builder.Services.AddMediatR(AppDomain.CurrentDomain.GetAssemblies());
 var app = builder.Build();
 
 
-app.UseSwagger();
-app.UseSwaggerUI();
+app.UseSwaggerDoc(); //Swagger
+app.UseCorsPolicy(); //CORS
+app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
