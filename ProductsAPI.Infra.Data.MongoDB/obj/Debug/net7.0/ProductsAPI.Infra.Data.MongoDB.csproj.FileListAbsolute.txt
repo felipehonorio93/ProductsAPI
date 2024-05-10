@@ -1,0 +1,17 @@
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.csproj.AssemblyReference.cache
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.AssemblyInfoInputs.cache
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.AssemblyInfo.cs
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.csproj.CoreCompileInputs.cache
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.deps.json
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.pdb
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Application.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Application.pdb
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.csproj.CopyComplete
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\refint\ProductsAPI.Infra.Data.MongoDB.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.pdb
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ref\ProductsAPI.Infra.Data.MongoDB.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Domain.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Domain.pdb

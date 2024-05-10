@@ -1,0 +1,12 @@
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\bin\Debug\net7.0\ProductsAPI.Domain.deps.json
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\bin\Debug\net7.0\ProductsAPI.Domain.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\bin\Debug\net7.0\ProductsAPI.Domain.pdb
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.csproj.AssemblyReference.cache
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.AssemblyInfoInputs.cache
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.AssemblyInfo.cs
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.csproj.CoreCompileInputs.cache
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\refint\ProductsAPI.Domain.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.pdb
+E:\Arquiteto\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ref\ProductsAPI.Domain.dll

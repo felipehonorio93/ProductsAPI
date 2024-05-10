@@ -1,0 +1,17 @@
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.deps.json
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.runtimeconfig.json
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.pdb
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Domain.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Domain.pdb
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.AssemblyReference.cache
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.AssemblyInfoInputs.cache
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.AssemblyInfo.cs
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.CoreCompileInputs.cache
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.CopyComplete
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\refint\ProductsAPI.Infra.Data.SqlServer.dll
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.pdb
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.genruntimeconfig.cache
+E:\Arquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ref\ProductsAPI.Infra.Data.SqlServer.dll
